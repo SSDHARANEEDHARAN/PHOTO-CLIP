@@ -4,3 +4,9 @@
   margin: 0;
   padding: 0;
 }
+
+@media (max-width: 768px) {
+  .App {
+    padding: 0 1rem;
+  }
+}
